@@ -1,0 +1,15 @@
+form {
+  max-width: 450px;
+  margin: 30px auto;
+}
+
+textarea {
+  height: 300px;
+}
+
+.remember {
+  color: #898989;
+  font-size: 14px;
+  margin-left: 10px;
+
+}
