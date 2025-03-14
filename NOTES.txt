@@ -1,0 +1,5 @@
+1- Check If User Come From A Request
+
+2- Assign Variables
+
+3- Creating Array Of Errors
